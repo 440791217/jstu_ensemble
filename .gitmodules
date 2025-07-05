@@ -1,3 +1,6 @@
 [submodule "pytorchfi"]
 	path = pytorchfi
 	url = https://github.com/440791217/pytorchfi
+[submodule "ultralytics"]
+	path = ultralytics
+	url = http://github.com/440791217/ultralytics
